@@ -61,39 +61,39 @@
       "marks": "2"
     },
     {
-      "ques": "Calculate the total number of angular nodes and radial nodes present in the 3p orbital.",
+      "ques": "An aqueous solution of sodium chloride freezes below 273 K. Explain the lowering in freezing points of water with the help of a suitable diagram.",
       "subject": "chemistry",
-      "topic": "Structure of Atom",
+      "topic": "Solid State",
       "marks": "2"
     },
     {
-      "ques": "The electronic configuration of the valence shell of Cu is 3d10 4s1 and not 3d9 4s2. How is this configuration explained ?",
+      "ques": "The conductivity of 0.001 M acetic acid is 4 x 10-5 S/cm. Calculate the dissociation constant of acetic acid, if molar conductivity at infinite dilution for acetic acid is 390 S cm2/mol.",
       "subject": "chemistry",
-      "topic": "Structure of Atom",
+      "topic": "Electrochemistry",
       "marks": "2"
     },
     {
-      "ques": "How do you account for the strong reducing power of lithium in aqueous solution ?",
+      "ques": "What is Lanthanoid contraction? What are its two consequences ?",
       "subject": "chemistry",
-      "topic": "s-Block Elements",
+      "topic": "d & f-Block Elements",
       "marks": "2"
     },
     {
-      "ques": "Why carbon has a strong tendency for catenation compared to silicon ?",
+      "ques": "The standard electrode potential for the Daniell cell is 1.1 V. Calculate the standard Gibbs energy for the cell reaction. (F = 96500 C mol-1)",
       "subject": "chemistry",
-      "topic": "p-Block Elements",
+      "topic": "Electrochemistry",
       "marks": "2"
     },
     {
-      "ques": "Under what conditions a real gas would behave ideally and Why ?",
+      "ques": "Explain Cationic detergents with suitable examples.",
       "subject": "chemistry",
-      "topic": "State of Matter",
+      "topic": "General Principles and Processes of Isolation of Elements",
       "marks": "2"
     },
     {
-      "ques": "Name the classes of hydrides to which H2O, B2H6, and NaH belong.",
+      "ques": "An element occurs in bcc structure. It has a cell edge length of 250 pm. Calculate the molar mass if its density is 8.0 g cm-3. Also, calculate the radius of an atom of this element.",
       "subject": "chemistry",
-      "topic": "Hydrogen",
+      "topic": "Solid State",
       "marks": "2"
     },
     {
@@ -103,39 +103,39 @@
       "marks": "2"
     },
     {
-      "ques": "On the basis of chemical reactions involved, explain how de chlorofluorocarbons cause thinning of the ozone layer in the stratosphere.",
+      "ques": "Write the name of the cell which is generally used in hearing aids. Write the reactions taking place at the anode and the cathode of this cell.",
       "subject": "chemistry",
-      "topic": "Environmental Chemistry",
+      "topic": "Electrochemistry",
       "marks": "2"
     },
     {
-      "ques": "At 298 K. Kp for the reaction N2O4 (g) ⇄ 2NO2 (g) is 0.98. Predict whether the reaction is spontaneous or not.",
+      "ques": "Write the chemical equations involved in the Kolbe’s reaction and Friedal-Crafts acetylation of anisole.",
       "subject": "chemistry",
-      "topic": "Chemical Thermodynamics",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
       "marks": "2"
     },
     {
-      "ques": "The pH of 0.08 mol dm-3 HOCl solution is 2.85. Calculate its ionisation constant.",
+      "ques": "Calculate the time to deposit 1.5 g of silver at cathode when a current of 1.5 A was passed through the solution of AgNO3. (Molar mass of Ag = 108 g mol-1, 1 F = 96500 C mol-1).",
       "subject": "chemistry",
-      "topic": "Equilibrium",
+      "topic": "Solutions",
       "marks": "2"
     },
     {
-      "ques": "Let f(x) = x2 and g(x) = 2x + 1 be two real functions. Find (f + g) (x), (f –g) (x), (fg) (x), (f/g ) (x)",
+      "ques": "Prove  that  2n > n  for  all  positive  integers  n  by  the  Principle  of  Mathematical  Induction",
       "subject": "maths",
-      "topic": "Relations and Functions",
+      "topic": "Principle of Mathematical Induction",
       "marks": "2"
     },
     {
-      "ques": "In any triangle ABC, prove that a sin (B – C) + b sin (C – A) + c sin (A – B) = 0.",
-      "subject": "maths",
-      "topic": "Trigonometric Functions",
-      "marks": "2"
-    },
-    {
-      "ques": "Show that tan 3x tan 2x tan x = tan 3x – tan 2x – tan x.",
+      "ques": "In any triangle ABC, prove the Cosine rule.",
       "subject": "maths",
       "topic": "Trigonometric Functions",
+      "marks": "2"
+    },
+    {
+      "ques": "Prove by induction that the sum of the cubes of three consecutive natural numbers is divisible by 9.",
+      "subject": "maths",
+      "topic": "Principle of Mathematical Induction",
       "marks": "2"
     },
     {
@@ -145,27 +145,27 @@
       "marks": "2"
     },
     {
-      "ques": "Show that the sum of (m + n)th and (m – n)th terms of an A.P. is equal to twice the mth term.",
+      "ques": "Find the area bounded by the parabola y2 = 4ax, latus rectum and the x-axis.",
       "subject": "maths",
-      "topic": "Sequences and Series",
+      "topic": "Parabola",
       "marks": "2"
     },
     {
-      "ques": "Using the binomial theorem, show that 6n–5n always leaves remainder 1 when divided by 25.",
+      "ques": "Verify that the function y = a cos x + b sin x, where, a, b ∈ R is a solution of the differential equation d2y/dx2 + y=0.",
       "subject": "maths",
-      "topic": "Binomial Theorem",
+      "topic": "Differential Equations",
       "marks": "2"
     },
     {
-      "ques": "Find the variance and the standard deviation for the following data: 57, 64, 43, 67, 49, 59, 44, 47, 61, 59.",
+      "ques": "Find the variance and the standard deviation for the following data: 57, 64, 83, 67, 61, 99.",
       "subject": "maths",
       "topic": "Statistics",
       "marks": "2"
     },
     {
-      "ques": "The mean of 2, 7, 4, 6, 8 and p is 7. Find the mean deviation about the median of these observations.",
+      "ques": "Form the differential equation representing the family of curves y = a sin (x + b), where a, b are arbitrary constants.",
       "subject": "maths",
-      "topic": "Statistics",
+      "topic": "Differential Equations",
       "marks": "2"
     },
     {
@@ -244,21 +244,21 @@
       "marks": "3"
     },
     {
-      "ques": "P4O6 reacts with water according to the equation P4O6 + 6H2O → 4H3PO3. Calculate the volume of 0.1MNaOH solution required to neutralise the acid formed by dissolving 1.1g of P4O6 in H2O.",
+      "ques": "The partial pressure of ethane over a saturated solution containing 6.56 x 10-2 of ethane is 1 bar. If the solution were to contain 5.0 x 10-2 g of ethane, what will be the partial pressure of the gas.",
       "subject": "chemistry",
-      "topic": "The p-Block Elements",
+      "topic": "Solutions",
       "marks": "3"
     },
     {
-      "ques": "Why on dilution the Λm of CH3COOH increases drastically, while that of CH3COONa increases gradually?",
+      "ques": "A first-order reaction takes 20 minutes for 25% decomposition. Calculate the time when 75% of the reaction will be completed. (Given : log 2 = 0·3010, log 3 = 0·4771, log 4 = 0·6021)",
+      "subject": "chemistry",
+      "topic": "Chemical Kinetics",
+      "marks": "3"
+    },
+    {
+      "ques": "Calculate the emf of the following cell at 25ºC Ag (s) | Ag+ (10-3 M) || Cu2+(10-1 M) | Cu (s) Given E°cell = +0.46 V and log10n = n",
       "subject": "chemistry",
       "topic": "Electrochemistry",
-      "marks": "3"
-    },
-    {
-      "ques": "Explain Hardy-Schulze rule,based on that explain why the coagulating power of phosphate is higher than chloride.",
-      "subject": "chemistry",
-      "topic": "Surface Chemistry",
       "marks": "3"
     },
     {
@@ -268,15 +268,15 @@
       "marks": "3"
     },
     {
-      "ques": "Explain the terms ideal and non-ideal solutions in the light of forces of interactions operating between molecules in liquid solutions.",
+      "ques": "Define Nucleotide, Anomers and Essential amino acids",
       "subject": "chemistry",
-      "topic": "Solutions",
+      "topic": "Amines",
       "marks": "3"
     },
     {
-      "ques": "A solution of KMnO4 on reduction yields either a colourless solution or a brown precipitate or a green solution depending on pH of the solution. What different stages of the reduction do these represent and how are they carried out?",
+      "ques": "What are emulsions?  What are their different types?  Give one example of each type.",
       "subject": "chemistry",
-      "topic": "D and F Block Elements.",
+      "topic": "Solutions",
       "marks": "3"
     },
     {
@@ -286,15 +286,15 @@
       "marks": "3"
     },
     {
-      "ques": " How can phenol be converted to aspirin ?",
+      "ques": " The Vapour pressure of water at 20ºC is 17.5 mm Hg. Calculate the vapour pressure of water at 20ºC when 15 g of glucose (Molar mass = 180 g mol-1) is dissolved in 150 g of water.",
       "subject": "chemistry",
-      "topic": "Alcohols, Phenols and Ethers",
+      "topic": "Solutions",
       "marks": "3"
     },
     {
-      "ques": "A solution contains 1 g mol each of p-toluene diazonium chloride and p-nitrophenyl diazonium chloride. 1 g mol of an alkaline solution of phenol is added to this. Predict the major product. Explain your answer.",
+      "ques": "Define adsorption with an example. Why is adsorption exothermic in nature? Write the types of adsorption based on the nature of forces between adsorbate and adsorbent.",
       "subject": "chemistry",
-      "topic": "Amines",
+      "topic": "Surface Chemistry",
       "marks": "3"
     },
     {
@@ -304,9 +304,9 @@
       "marks": "3"
     },
     {
-      "ques": " If x2 + px – 444p = 0 has integral roots, where p is a prime number, then the value(s) of p is (are) ?",
+      "ques": "Find  the area  enclosed  by  the  ellipse  x2/a2  +  y2/b2 = 1",
       "subject": "maths",
-      "topic": "Quadratic Equations",
+      "topic": "Applications of Integrals",
       "marks": "3"
     },
     {
@@ -316,27 +316,27 @@
       "marks": "3"
     },
     {
-      "ques": "The total number of ways in which 5 balls of different colours can be distributed among 3 persons so that each person gets at least one ball is ?",
+      "ques": "An fair die is thrown double times. Assume that the event A is “odd number on the first throw” and B the event “odd number on the second throw”. Compare the independence of the events A and B.",
       "subject": "maths",
-      "topic": "Permutation N Combination",
+      "topic": "Probability",
       "marks": "3"
     },
     {
-      "ques": "Let the curve C be the mirror image of the parabola y2 = 4x with respect to the line x + y + 4 = 0. If A and B are the points of intersection of C with the line y = -5, then the distance between A and B is ?",
+      "ques": "Let the curve C be the mirror image of the parabola y2 = 4x with respect to the line x + y + 4 = 0. If A and B are the points of intersection of C with the line y = -5, then find the points A and B ?",
       "subject": "maths",
       "topic": "Parabola",
       "marks": "3"
     },
     {
-      "ques": "Let PQ be a focal chord of the parabola y2 = 4ax. The tangents to the parabola at P and Q meet at a point lying on the line y = 2x + a, a>0. Length of the chord PQ is ?",
+      "ques": "Find  the direction  cosines of the line passing through the two points (– 2, 4, – 5) and (1, 2, 3).",
       "subject": "maths",
-      "topic": "Parabola",
+      "topic": "3-D Geometry",
       "marks": "3"
     },
     {
-      "ques": "If a function f is such that f(0) = 2, f(1) = 3, f(x+2) = 2f(x) – f(x+1) for x ≥ 0, then f(5) is equal to",
+      "ques": "The probability of solving the specific problem independently by the persons’ A and B are 1/2 and 1/3 respectively. In case, if both the persons try to solve the problem independently, then calculate the probability that the problem is solved.",
       "subject": "maths",
-      "topic": "Continuity",
+      "topic": "Probability",
       "marks": "3"
     },
     {
@@ -373,15 +373,15 @@
       "marks": "5"
     },
     {
-      "ques": "Define the terms specific conductance, molar conductance and equivalent conductance. Derive the relationship between molar conductance and equivalent conductance.",
+      "ques": "For the reaction NH4Cl s-> NH3 g + HCl g at 25°C, enthalpy change ΔH = +177 kJ mol-1 and entropy change ΔS = +285JK-1 mol-1 . Calculate the free energy change of ΔG at 25 C and predict whether the reaction is spontaneous or not.",
       "subject": "chemistry",
-      "topic": "Electrochemistry",
+      "topic": "Thermodynamics",
       "marks": "5"
     },
     {
-      "ques": "How can you remove the hard calcium carbonate layer of the egg without damaging its semipermeable membrane? Can this egg be inserted into a bottle with a narrow neck without distorting its shape? Explain the process involved.",
+      "ques": "Compound ‘A’ with the molecular formula C5H8 reacts with hydrogen in the presence of Lindlar’s catalyst to form a compound B with the molecular formula C5 H10. A on reacting with sodium in liquid ammonia forms a compound ‘C’ with the same molecular formula as that of B. Identify ‘A’, ‘B’ and ‘C’. Give the chemical reactions involved.",
       "subject": "chemistry",
-      "topic": "Solutions",
+      "topic": "Alkanes",
       "marks": "5"
     },
     {
@@ -391,9 +391,9 @@
       "marks": "5"
     },
     {
-      "ques": "Explain a process in which a biocatalyst is used in industrial preparation of a compound known to you.",
+      "ques": "Write the chemical reaction involved in Kolbe’s electrolytic process. What are the products formed at cathode and anode?",
       "subject": "chemistry",
-      "topic": "Alcohols, Phenols and Ethers",
+      "topic": "Electrolysis",
       "marks": "5"
     },
     {
@@ -403,33 +403,33 @@
       "marks": "5"
     },
     {
-      "ques": "Synthetic detergents have an advantage over usual soaps as far as cleansing power is concerned. But the use of synthetic detergents over a long time creates environmental pollution. How can the pollution caused by synthetic detergents be minimised? Classify the detergents according to their chemical nature.",
+      "ques": "Define the compressibility factor?  Explain how the function PV/RT (Z) can be used to show gases behave non-ideally at different pressures.",
       "subject": "chemistry",
-      "topic": "Chemistry in Everyday Life",
+      "topic": "Basic concepts of Chemistry",
       "marks": "5"
     },
     {
-      "ques": "A value of b for which the equations x2 + bx – 1 = 0 and x2 + x + b = 0 have one root in common is ?",
+      "ques": "A die is thrown twice and the sum of the numbers rising is noted to be 6. Calculate the is the conditional probability that the number 4 has arrived at least once ?",
       "subject": "maths",
-      "topic": "Quadratic Equations",
+      "topic": "Probability",
       "marks": "5"
     },
     {
-      "ques": "A debate club consists of 6 girls and 4 boys. A team of 4 members is said to be selected from this club including the selection of a captain (from among these 4 members) for the team. If the team has to be included at most one boy, then the number of ways of selecting the team is ?",
+      "ques": "A debate club consists of 7 girls and 5 boys. A team of 5 members is said to be selected from this club including the selection of a captain (from among these 4 members) for the team. If the team has to be included at most one boy, then the number of ways of selecting the team is ?",
       "subject": "maths",
       "topic": "Permutation N Combination",
       "marks": "5"
     },
     {
-      "ques": "If λx2 – 5xy + 6y2 + x – 3y = 0 represents a pair of straight lines, then their point of intersection is",
+      "ques": "The value of tan-1 √3 – sec-1(–2) is equal to ?",
       "subject": "maths",
-      "topic": "Straight Line",
+      "topic": "Inverse Trigonometric Function",
       "marks": "5"
     },
     {
-      "ques": "The equation x2 – 3xy + λy2 + 3x – 5y + 2 = 0 when λ is a real number, represents a pair of straight lines. If θ is the angle between the lines, then cosec2 θ is equal to ?",
+      "ques": "Find the equation of a curve passing through (1, π/4) if the slope of the tangent to the curve at any point P (x, y) is y/x – cos2(y/x).",
       "subject": "maths",
-      "topic": "Straight Line",
+      "topic": "Differential Equations",
       "marks": "5"
     }
   ]
