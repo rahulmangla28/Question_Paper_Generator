@@ -17,9 +17,10 @@ A Backend based application which enables the user to generate the question pape
 ## Video Presentation
 
 
+https://github.com/rahulmangla28/Question_Paper_Generator/assets/93324315/94ae4bad-e080-4af4-8ca1-2d44d7872052
 
 
-https://github.com/rahulmangla28/Question_Paper_Generator/blob/master/Video%20Presentation.mp4
+
 
 
 ## Steps to run project in local
